@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bgamez17
+- 👀 I’m interested in learning new cyber skills, sports and video games.
+- 🌱 I’m currently learning Linux basics and learning how to code in Python.
+- 💞️ I’m looking to collaborate on projects that will help me grow as a developer.
+- 📫 How to reach me: via email: bgamez17@gmail.com
